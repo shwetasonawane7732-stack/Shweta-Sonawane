@@ -1,0 +1,6 @@
+{
+  "name": "CasaCraft Furniture",
+  "description": "Modern, creative, and attractive furniture website for beautiful and stylish homes featuring handcrafted luxury pieces, room collections, and bespoke interior inspiration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
